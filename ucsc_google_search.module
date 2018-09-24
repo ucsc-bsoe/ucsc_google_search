@@ -1,0 +1,5 @@
+<?php
+
+function ucsc_google_search_preprocess_page(&$variables) {
+  $variables['#attached']['library'][] =  'ucsc_google_search/search';
+}

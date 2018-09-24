@@ -1,0 +1,22 @@
+#ucsc-google-search-box input[type=text] {
+  width: auto;
+  display: inline-block; 
+  margin-right: 10px;
+  margin-bottom: 5px;
+}
+
+#ucsc-google-search-box .button {
+  margin-left: 0;
+  margin-right: 0;
+  display: inline-block;
+  vertical-align: top;
+}
+
+#ucsc-google-search-box .directions {
+  float: left;
+}
+
+.page-node-type-page .region-content .block-ucsc-google-search-block {
+  margin-right: 5%;
+  margin-left: 5%;
+}

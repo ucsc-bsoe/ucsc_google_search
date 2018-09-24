@@ -1,0 +1,5 @@
+search:
+  version: 1.x
+  css:
+    theme:
+      ucsc-google-search.css: {}

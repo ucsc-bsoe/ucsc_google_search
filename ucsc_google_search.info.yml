@@ -1,0 +1,7 @@
+name: UCSC Google Search
+type: module
+description: Creates a Google search that only searches BSOE sites. (BSOE Google CSE)
+core: 8.x
+package: UCSC
+dependencies:
+  - block
