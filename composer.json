@@ -1,0 +1,15 @@
+{
+  "name": "drupal/ucsc_google_search",
+  "description": "UCSC Google Search so people can use patterns to populate users.",
+  "type": "drupal-custom-module",
+  "homepage": "https://github.com/ucsc-bsoe/ucsc_google_search",
+  "authors": [
+    {
+      "name": "Kristin Bradham",
+      "homepage": "https://www.drupal.org/u/kristindev",
+      "role": "Maintainer"
+    }
+  ],
+  "license": "GPL-2.0-or-later",
+  "minimum-stability": "dev"
+}
